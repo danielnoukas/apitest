@@ -7,7 +7,7 @@
 }
 
 .movie {
-    border: 7px solid cornflowerblue;
+    border: 7px solid rgb(252, 2, 218);
 
 }
 
@@ -19,7 +19,7 @@
     font-family: 'Indie Flower', cursive;
     font-weight: bold;
     padding: 20px;
-    color: rgb(66, 84, 245);
+    color: rgb(250, 2, 167);
 
 }
 

@@ -14,7 +14,7 @@ request.onload = function() {
         console.log(movie.title)
         const movie_div = document.createElement('div')
         movie_div.className = 'movie'
-        movie_div.innerHTML = '<div class="title">' + movie.title + '</div><div class="desc">' + movie.description + '</div>'
+        movie_div.innerHTML = '<div class="title">' + movie.title + '</div><div class="desc">' + movie.description + '</div><div class="producer">' + movie.producer + '</div><div class="producer">' + movie.release_date + '</div>'
         
         container.append(movie_div)
     });
